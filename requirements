@@ -1,0 +1,7 @@
+streamlit
+pandas
+google-generativeai
+sqlalchemy
+transformers
+sqlite3
+# Add any other required libraries
